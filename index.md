@@ -1,3 +1,3 @@
 ---
-title: Organismo Simbiótico de Inteligencias
+title:Organismo Simbiótico de Inteligencias
 ---
